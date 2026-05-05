@@ -1,0 +1,102 @@
+[
+  {
+    "timestamp": "2026-04-19T22:57:21.157368",
+    "length": 60,
+    "summary": "Ether / ARP who has 192.168.1.7 says 192.168.1.1 / Padding"
+  },
+  {
+    "timestamp": "2026-04-19T22:57:21.157725",
+    "length": 42,
+    "summary": "Ether / ARP is at 50:ed:3c:02:2d:74 says 192.168.1.7"
+  },
+  {
+    "timestamp": "2026-04-19T22:57:22.186367",
+    "length": 86,
+    "summary": "Ether / IPv6 / ICMPv6ND_NS / ICMPv6 Neighbor Discovery Option - Source Link-Layer Address 6c:22:f7:e1:04:63"
+  },
+  {
+    "timestamp": "2026-04-19T22:57:22.187396",
+    "length": 78,
+    "summary": "Ether / IPv6 / ICMPv6 Neighbor Discovery - Neighbor Advertisement (tgt: fe80::f4:84d1:37f:a09d)"
+  },
+  {
+    "timestamp": "2026-04-19T22:57:23.268993",
+    "length": 86,
+    "summary": "Ether / IPv6 / ICMPv6ND_NS / ICMPv6 Neighbor Discovery Option - Source Link-Layer Address 6c:22:f7:e1:04:63"
+  },
+  {
+    "timestamp": "2026-04-19T22:57:23.270120",
+    "length": 78,
+    "summary": "Ether / IPv6 / ICMPv6 Neighbor Discovery - Neighbor Advertisement (tgt: 2401:4900:1c17:6b1:dd51:bc6a:7e19:9b62)"
+  },
+  {
+    "timestamp": "2026-04-19T22:57:26.416556",
+    "length": 60,
+    "summary": "Ether / ARP who has 192.168.1.7 says 192.168.1.1 / Padding"
+  },
+  {
+    "timestamp": "2026-04-19T22:57:26.417903",
+    "length": 42,
+    "summary": "Ether / ARP is at 50:ed:3c:02:2d:74 says 192.168.1.7"
+  },
+  {
+    "timestamp": "2026-04-19T22:57:27.298988",
+    "length": 86,
+    "summary": "Ether / IPv6 / ICMPv6ND_NS / ICMPv6 Neighbor Discovery Option - Source Link-Layer Address 6c:22:f7:e1:04:63"
+  },
+  {
+    "timestamp": "2026-04-19T22:57:27.299789",
+    "length": 78,
+    "summary": "Ether / IPv6 / ICMPv6 Neighbor Discovery - Neighbor Advertisement (tgt: fe80::f4:84d1:37f:a09d)"
+  },
+  {
+    "timestamp": "2026-04-19T22:57:28.131235",
+    "length": 86,
+    "summary": "Ether / IPv6 / ICMPv6ND_NS / ICMPv6 Neighbor Discovery Option - Source Link-Layer Address 50:ed:3c:02:2d:74"
+  },
+  {
+    "timestamp": "2026-04-19T22:57:28.349135",
+    "length": 86,
+    "summary": "Ether / IPv6 / ICMPv6ND_NS / ICMPv6 Neighbor Discovery Option - Source Link-Layer Address 6c:22:f7:e1:04:63"
+  },
+  {
+    "timestamp": "2026-04-19T22:57:28.349630",
+    "length": 78,
+    "summary": "Ether / IPv6 / ICMPv6 Neighbor Discovery - Neighbor Advertisement (tgt: 2401:4900:1c17:6b1:dd51:bc6a:7e19:9b62)"
+  },
+  {
+    "timestamp": "2026-04-19T22:57:28.351412",
+    "length": 78,
+    "summary": "Ether / IPv6 / ICMPv6 Neighbor Discovery - Neighbor Advertisement (tgt: 2401:4900:1c17:6b1:6e22:f7ff:fee1:463)"
+  },
+  {
+    "timestamp": "2026-04-19T22:57:31.497173",
+    "length": 60,
+    "summary": "Ether / ARP who has 192.168.1.7 says 192.168.1.1 / Padding"
+  },
+  {
+    "timestamp": "2026-04-19T22:57:31.497639",
+    "length": 42,
+    "summary": "Ether / ARP is at 50:ed:3c:02:2d:74 says 192.168.1.7"
+  },
+  {
+    "timestamp": "2026-04-19T22:57:32.176222",
+    "length": 86,
+    "summary": "Ether / IPv6 / ICMPv6ND_NS / ICMPv6 Neighbor Discovery Option - Source Link-Layer Address 50:ed:3c:02:2d:74"
+  },
+  {
+    "timestamp": "2026-04-19T22:57:32.282226",
+    "length": 78,
+    "summary": "Ether / IPv6 / ICMPv6 Neighbor Discovery - Neighbor Advertisement (tgt: fe80::6e22:f7ff:fee1:463)"
+  },
+  {
+    "timestamp": "2026-04-19T22:57:32.542898",
+    "length": 86,
+    "summary": "Ether / IPv6 / ICMPv6ND_NS / ICMPv6 Neighbor Discovery Option - Source Link-Layer Address 6c:22:f7:e1:04:63"
+  },
+  {
+    "timestamp": "2026-04-19T22:57:32.543834",
+    "length": 78,
+    "summary": "Ether / IPv6 / ICMPv6 Neighbor Discovery - Neighbor Advertisement (tgt: fe80::f4:84d1:37f:a09d)"
+  }
+]

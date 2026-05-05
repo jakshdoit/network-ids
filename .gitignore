@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Model files (too large for git)
+models/
+
+# Captured data & logs
+data/processed/
+data/alerts/
+logs/
+
+# Mac system files
+.DS_Store
+
+# Environment variables
+.env
